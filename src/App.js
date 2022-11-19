@@ -8,9 +8,9 @@ import './App.css';
 //  import State from './component/State';
   // import Reducer  from './component/Reducer';
 // import ReducerPractice from './component/ReducerPractice';
- import Effect from './component/Effect';
+//  import Effect from './component/Effect';
 // import EffectPractice from './component/EffectPractice';
-//  import Ref from './component/Ref';
+ import Ref from './component/Ref';
 // import RefPractice from './component/RefPractice';
 // import Impert from './component/Impert'
 // import Context2 from './component/Context2';
@@ -23,7 +23,7 @@ function App() {
          {/* <State/>  */}
         {/* <Reducer/> */}
         {/* <ReducerPractice/> */}
-         <Effect/> */}
+         {/* <Effect/> */}
         {/* <EffectPractice/> */} 
           {/* <Ref/> */}
         {/* <RefPractice/> */} 
